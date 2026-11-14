@@ -63,6 +63,12 @@
     background: transparent;
   }
 
+  ::placeholder {
+    color: #444;
+    opacity: 1;
+  }
+
+
   button {
     cursor: pointer;
     border: none;
